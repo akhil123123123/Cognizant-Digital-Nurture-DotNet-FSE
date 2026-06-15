@@ -1,0 +1,14 @@
+C:\Users\user\Downloads\OneDrive\Desktop\Cognizant-Digital-Nurture-DotNet-FSE\Week-1\Design-Patterns\Singleton-Pattern\Singleton-Pattern\bin\Debug\net10.0\Singleton-Pattern.exe
+C:\Users\user\Downloads\OneDrive\Desktop\Cognizant-Digital-Nurture-DotNet-FSE\Week-1\Design-Patterns\Singleton-Pattern\Singleton-Pattern\bin\Debug\net10.0\Singleton-Pattern.deps.json
+C:\Users\user\Downloads\OneDrive\Desktop\Cognizant-Digital-Nurture-DotNet-FSE\Week-1\Design-Patterns\Singleton-Pattern\Singleton-Pattern\bin\Debug\net10.0\Singleton-Pattern.runtimeconfig.json
+C:\Users\user\Downloads\OneDrive\Desktop\Cognizant-Digital-Nurture-DotNet-FSE\Week-1\Design-Patterns\Singleton-Pattern\Singleton-Pattern\bin\Debug\net10.0\Singleton-Pattern.dll
+C:\Users\user\Downloads\OneDrive\Desktop\Cognizant-Digital-Nurture-DotNet-FSE\Week-1\Design-Patterns\Singleton-Pattern\Singleton-Pattern\bin\Debug\net10.0\Singleton-Pattern.pdb
+C:\Users\user\Downloads\OneDrive\Desktop\Cognizant-Digital-Nurture-DotNet-FSE\Week-1\Design-Patterns\Singleton-Pattern\Singleton-Pattern\obj\Debug\net10.0\Singleton-Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\OneDrive\Desktop\Cognizant-Digital-Nurture-DotNet-FSE\Week-1\Design-Patterns\Singleton-Pattern\Singleton-Pattern\obj\Debug\net10.0\Singleton-Pattern.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\OneDrive\Desktop\Cognizant-Digital-Nurture-DotNet-FSE\Week-1\Design-Patterns\Singleton-Pattern\Singleton-Pattern\obj\Debug\net10.0\Singleton-Pattern.AssemblyInfo.cs
+C:\Users\user\Downloads\OneDrive\Desktop\Cognizant-Digital-Nurture-DotNet-FSE\Week-1\Design-Patterns\Singleton-Pattern\Singleton-Pattern\obj\Debug\net10.0\Singleton-Pattern.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\OneDrive\Desktop\Cognizant-Digital-Nurture-DotNet-FSE\Week-1\Design-Patterns\Singleton-Pattern\Singleton-Pattern\obj\Debug\net10.0\Singleton-Pattern.dll
+C:\Users\user\Downloads\OneDrive\Desktop\Cognizant-Digital-Nurture-DotNet-FSE\Week-1\Design-Patterns\Singleton-Pattern\Singleton-Pattern\obj\Debug\net10.0\refint\Singleton-Pattern.dll
+C:\Users\user\Downloads\OneDrive\Desktop\Cognizant-Digital-Nurture-DotNet-FSE\Week-1\Design-Patterns\Singleton-Pattern\Singleton-Pattern\obj\Debug\net10.0\Singleton-Pattern.pdb
+C:\Users\user\Downloads\OneDrive\Desktop\Cognizant-Digital-Nurture-DotNet-FSE\Week-1\Design-Patterns\Singleton-Pattern\Singleton-Pattern\obj\Debug\net10.0\Singleton-Pattern.genruntimeconfig.cache
+C:\Users\user\Downloads\OneDrive\Desktop\Cognizant-Digital-Nurture-DotNet-FSE\Week-1\Design-Patterns\Singleton-Pattern\Singleton-Pattern\obj\Debug\net10.0\ref\Singleton-Pattern.dll

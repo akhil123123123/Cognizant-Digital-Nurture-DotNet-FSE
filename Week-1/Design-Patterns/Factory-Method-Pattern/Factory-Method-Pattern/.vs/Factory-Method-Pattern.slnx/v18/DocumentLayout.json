@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\OneDrive\\Desktop\\Cognizant-Digital-Nurture-DotNet-FSE\\Week-1\\Design-Patterns\\Factory-Method-Pattern\\Factory-Method-Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{124FD9AA-5157-454E-8800-F93BDE88BC65}|Factory-Method-Pattern.csproj|c:\\users\\user\\downloads\\onedrive\\desktop\\cognizant-digital-nurture-dotnet-fse\\week-1\\design-patterns\\factory-method-pattern\\factory-method-pattern\\readme.md||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{124FD9AA-5157-454E-8800-F93BDE88BC65}|Factory-Method-Pattern.csproj|solutionrelative:readme.md||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{124FD9AA-5157-454E-8800-F93BDE88BC65}|Factory-Method-Pattern.csproj|c:\\users\\user\\downloads\\onedrive\\desktop\\cognizant-digital-nurture-dotnet-fse\\week-1\\design-patterns\\factory-method-pattern\\factory-method-pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{124FD9AA-5157-454E-8800-F93BDE88BC65}|Factory-Method-Pattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\OneDrive\\Desktop\\Cognizant-Digital-Nurture-DotNet-FSE\\Week-1\\Design-Patterns\\Factory-Method-Pattern\\Factory-Method-Pattern\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\user\\Downloads\\OneDrive\\Desktop\\Cognizant-Digital-Nurture-DotNet-FSE\\Week-1\\Design-Patterns\\Factory-Method-Pattern\\Factory-Method-Pattern\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvx8AAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-15T05:35:21.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\OneDrive\\Desktop\\Cognizant-Digital-Nurture-DotNet-FSE\\Week-1\\Design-Patterns\\Factory-Method-Pattern\\Factory-Method-Pattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\OneDrive\\Desktop\\Cognizant-Digital-Nurture-DotNet-FSE\\Week-1\\Design-Patterns\\Factory-Method-Pattern\\Factory-Method-Pattern\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T05:33:58.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
