@@ -1,0 +1,15 @@
+C:\Users\user\Downloads\OneDrive\Desktop\Cognizant-Digital-Nurture-DotNet-FSE\Week-1\Design-Patterns\Factory-Method-Pattern\Ecommerce-Search\bin\Debug\net10.0\Ecommerce-Search.exe
+C:\Users\user\Downloads\OneDrive\Desktop\Cognizant-Digital-Nurture-DotNet-FSE\Week-1\Design-Patterns\Factory-Method-Pattern\Ecommerce-Search\bin\Debug\net10.0\Ecommerce-Search.deps.json
+C:\Users\user\Downloads\OneDrive\Desktop\Cognizant-Digital-Nurture-DotNet-FSE\Week-1\Design-Patterns\Factory-Method-Pattern\Ecommerce-Search\bin\Debug\net10.0\Ecommerce-Search.runtimeconfig.json
+C:\Users\user\Downloads\OneDrive\Desktop\Cognizant-Digital-Nurture-DotNet-FSE\Week-1\Design-Patterns\Factory-Method-Pattern\Ecommerce-Search\bin\Debug\net10.0\Ecommerce-Search.dll
+C:\Users\user\Downloads\OneDrive\Desktop\Cognizant-Digital-Nurture-DotNet-FSE\Week-1\Design-Patterns\Factory-Method-Pattern\Ecommerce-Search\bin\Debug\net10.0\Ecommerce-Search.pdb
+C:\Users\user\Downloads\OneDrive\Desktop\Cognizant-Digital-Nurture-DotNet-FSE\Week-1\Design-Patterns\Factory-Method-Pattern\Ecommerce-Search\obj\Debug\net10.0\Ecommerce-Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\OneDrive\Desktop\Cognizant-Digital-Nurture-DotNet-FSE\Week-1\Design-Patterns\Factory-Method-Pattern\Ecommerce-Search\obj\Debug\net10.0\Ecommerce-Search.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\OneDrive\Desktop\Cognizant-Digital-Nurture-DotNet-FSE\Week-1\Design-Patterns\Factory-Method-Pattern\Ecommerce-Search\obj\Debug\net10.0\Ecommerce-Search.AssemblyInfo.cs
+C:\Users\user\Downloads\OneDrive\Desktop\Cognizant-Digital-Nurture-DotNet-FSE\Week-1\Design-Patterns\Factory-Method-Pattern\Ecommerce-Search\obj\Debug\net10.0\Ecommerce-Search.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\OneDrive\Desktop\Cognizant-Digital-Nurture-DotNet-FSE\Week-1\Design-Patterns\Factory-Method-Pattern\Ecommerce-Search\obj\Debug\net10.0\Ecommerce-Search.sourcelink.json
+C:\Users\user\Downloads\OneDrive\Desktop\Cognizant-Digital-Nurture-DotNet-FSE\Week-1\Design-Patterns\Factory-Method-Pattern\Ecommerce-Search\obj\Debug\net10.0\Ecommerce-Search.dll
+C:\Users\user\Downloads\OneDrive\Desktop\Cognizant-Digital-Nurture-DotNet-FSE\Week-1\Design-Patterns\Factory-Method-Pattern\Ecommerce-Search\obj\Debug\net10.0\refint\Ecommerce-Search.dll
+C:\Users\user\Downloads\OneDrive\Desktop\Cognizant-Digital-Nurture-DotNet-FSE\Week-1\Design-Patterns\Factory-Method-Pattern\Ecommerce-Search\obj\Debug\net10.0\Ecommerce-Search.pdb
+C:\Users\user\Downloads\OneDrive\Desktop\Cognizant-Digital-Nurture-DotNet-FSE\Week-1\Design-Patterns\Factory-Method-Pattern\Ecommerce-Search\obj\Debug\net10.0\Ecommerce-Search.genruntimeconfig.cache
+C:\Users\user\Downloads\OneDrive\Desktop\Cognizant-Digital-Nurture-DotNet-FSE\Week-1\Design-Patterns\Factory-Method-Pattern\Ecommerce-Search\obj\Debug\net10.0\ref\Ecommerce-Search.dll

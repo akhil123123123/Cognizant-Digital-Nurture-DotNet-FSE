@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\OneDrive\\Desktop\\Cognizant-Digital-Nurture-DotNet-FSE\\Week-1\\Design-Patterns\\Factory-Method-Pattern\\Ecommerce-Search\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC323AA9-831F-4DEC-948D-4716AA025459}|Ecommerce-Search.csproj|c:\\users\\user\\downloads\\onedrive\\desktop\\cognizant-digital-nurture-dotnet-fse\\week-1\\design-patterns\\factory-method-pattern\\ecommerce-search\\readme.md||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BC323AA9-831F-4DEC-948D-4716AA025459}|Ecommerce-Search.csproj|solutionrelative:readme.md||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC323AA9-831F-4DEC-948D-4716AA025459}|Ecommerce-Search.csproj|c:\\users\\user\\downloads\\onedrive\\desktop\\cognizant-digital-nurture-dotnet-fse\\week-1\\design-patterns\\factory-method-pattern\\ecommerce-search\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC323AA9-831F-4DEC-948D-4716AA025459}|Ecommerce-Search.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\OneDrive\\Desktop\\Cognizant-Digital-Nurture-DotNet-FSE\\Week-1\\Design-Patterns\\Factory-Method-Pattern\\Ecommerce-Search\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\user\\Downloads\\OneDrive\\Desktop\\Cognizant-Digital-Nurture-DotNet-FSE\\Week-1\\Design-Patterns\\Factory-Method-Pattern\\Ecommerce-Search\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAC8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-15T09:12:00.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\OneDrive\\Desktop\\Cognizant-Digital-Nurture-DotNet-FSE\\Week-1\\Design-Patterns\\Factory-Method-Pattern\\Ecommerce-Search\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\OneDrive\\Desktop\\Cognizant-Digital-Nurture-DotNet-FSE\\Week-1\\Design-Patterns\\Factory-Method-Pattern\\Ecommerce-Search\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T09:03:05.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
